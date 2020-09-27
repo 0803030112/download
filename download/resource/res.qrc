@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>group_ctrl.png</file>
+        <file>qss/psblack.css</file>
+    </qresource>
+</RCC>
